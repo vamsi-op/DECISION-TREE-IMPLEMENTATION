@@ -46,3 +46,6 @@ All the code, visualizations, and results were compiled in a well-documented Jup
 
 This task provided hands-on experience with the entire lifecycle of a machine learning classification project, from loading data to model evaluation and visualization. It reinforced key concepts such as feature encoding, train/test split, model accuracy, and the importance of interpretability in machine learning. Completing this task successfully lays a strong foundation for more advanced projects in the internship, such as natural language processing, deep learning with CNNs, and recommendation systems.
 
+*OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/8557feb0-f377-427b-8208-0a191811ff52)
